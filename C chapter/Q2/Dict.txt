@@ -1,0 +1,4 @@
+drink:beverage:
+bar:pub:
+hi:hello:shalom:
+maybe:perhaps:
